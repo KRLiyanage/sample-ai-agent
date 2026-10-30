@@ -1,0 +1,6 @@
+openai
+dotenv
+ipykernel
+requests
+tiktoken
+gradio
