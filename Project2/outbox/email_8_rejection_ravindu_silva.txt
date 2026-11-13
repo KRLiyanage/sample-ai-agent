@@ -1,0 +1,13 @@
+To: Ravindu Silva <ravindu.silva@example.com>
+Subject: Your application for Junior AI/ML Engineer at Serendib AI
+
+Dear Ravindu Silva,
+
+Thank you for your application to the Junior AI/ML Engineer role at Serendib AI.
+
+To strengthen your profile, we suggest working on real AI/ML projects and including clear evidence of your skills and contributions, rather than just listing technologies.
+
+Best wishes for your future endeavors.
+
+Best regards,
+Talent Acquisition Team

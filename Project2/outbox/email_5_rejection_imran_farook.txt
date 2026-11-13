@@ -1,0 +1,13 @@
+To: Imran Farook <imran.farook@example.com>
+Subject: Your application for Junior AI/ML Engineer at Serendib AI
+
+Dear Imran Farook,
+
+Thank you for your interest in the Junior AI/ML Engineer role at Serendib AI. We appreciate the effort you put into your application.
+
+To improve your chances for future AI/ML roles, we suggest gaining more hands-on experience with real projects using LLM APIs and deep learning frameworks like PyTorch or TensorFlow.
+
+We wish you all the best in your career journey.
+
+Best regards,
+Talent Acquisition Team

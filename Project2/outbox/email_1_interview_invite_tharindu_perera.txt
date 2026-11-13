@@ -1,0 +1,16 @@
+To: Tharindu Perera <tharindu.perera@example.com>
+Subject: Interview Invitation for Junior AI/ML Engineer Role at Serendib AI
+
+Dear Tharindu Perera,
+
+We were impressed by your project experience with LLMs and machine learning skills showcased in your CV. We would like to invite you for a 45-minute online interview.
+
+Please let us know your availability for one of the following time slots next week:
+- Monday 9:00 AM - 10:00 AM
+- Wednesday 2:00 PM - 3:00 PM
+- Friday 11:00 AM - 12:00 PM
+
+Looking forward to your reply.
+
+Best regards,
+Talent Acquisition Team

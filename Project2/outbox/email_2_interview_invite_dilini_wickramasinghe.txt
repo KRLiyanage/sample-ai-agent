@@ -1,0 +1,16 @@
+To: Dilini Wickramasinghe <dilini.wickramasinghe@example.com>
+Subject: Interview Invitation for Junior AI/ML Engineer Role at Serendib AI
+
+Dear Dilini Wickramasinghe,
+
+We appreciated the strong evidence of hands-on projects using LLM APIs and ML skills in your CV. We would like to invite you to a 45-minute online interview.
+
+Please choose one of the following time slots next week:
+- Monday 9:00 AM - 10:00 AM
+- Wednesday 2:00 PM - 3:00 PM
+- Friday 11:00 AM - 12:00 PM
+
+Looking forward to your response.
+
+Best regards,
+Talent Acquisition Team

@@ -1,0 +1,16 @@
+To: Nethmi Fernando <nethmi.fernando@example.com>
+Subject: Interview Invitation for Junior AI/ML Engineer Role at Serendib AI
+
+Dear Nethmi Fernando,
+
+We liked the evidence of your machine learning projects and use of Python and SQL in your CV. We would like to invite you for a 45-minute online interview.
+
+Please choose a convenient time from the following slots next week:
+- Monday 9:00 AM - 10:00 AM
+- Wednesday 2:00 PM - 3:00 PM
+- Friday 11:00 AM - 12:00 PM
+
+Looking forward to your reply.
+
+Best regards,
+Talent Acquisition Team

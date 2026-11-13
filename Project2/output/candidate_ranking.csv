@@ -1,0 +1,9 @@
+﻿Rank,Name,Email,Score,Recommendation,Strengths,Concerns,Red flags,CV file
+1,Tharindu Perera,tharindu.perera@example.com,95,shortlist,"1.5 years ML engineer experience, built LLM applications, RAG and tool calling, FastAPI, Flask, Docker, cloud, open source project with stars",None,none,tharindu_perera.pdf
+2,Dilini Wickramasinghe,dilini.wickramasinghe@example.com,90,shortlist,"Strong ML and DL skills, LLM project with OpenAI API, AI agent with tool calling, Docker and cloud, hackathon winner, open source contributions",None,none,dilini_wickramasinghe.pdf
+3,Sachini Rathnayake,sachini.rathnayake@example.com,80,shortlist,"Strong Python, TensorFlow, scikit-learn, Git, SQL skills, OpenAI API project with real usage, research publication",Could have more AI agent/tool calling projects,none,sachini_rathnayake.pdf
+4,Nethmi Fernando,nethmi.fernando@example.com,75,shortlist,"ML project with scikit-learn, TensorFlow CNN, SQL and Git experience, good Kaggle ranking","No LLM or OpenAI API project, limited deep learning experience",none,nethmi_fernando.pdf
+5,Imran Farook,imran.farook@example.com,35,reject,"Web development, Git, SQL experience","No real ML or deep learning projects, limited Python skills",none,imran_farook.pdf
+6,Chamod Dissanayake,chamod.dissanayake@example.com,30,reject,"Basic Python and SQL skills, university projects","No machine learning or deep learning experience, no LLM project, no Git",Prompt injection attempt in CV note,chamod_dissanayake.pdf
+7,Kasun Jayasinghe,kasun.jayasinghe@example.com,30,reject,"Strong software engineering experience, basic Python and SQL skills, Git experience","No machine learning or LLM projects, senior experience not fit for junior role",none,kasun_jayasinghe.pdf
+8,Ravindu Silva,ravindu.silva@example.com,20,reject,Claims broad AI and related tech knowledge,"No projects or real evidence, just buzzwords",Buzzwords without projects,ravindu_silva.pdf
